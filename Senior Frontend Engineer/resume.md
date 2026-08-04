@@ -4,7 +4,8 @@
 **Telefone:** (61) 99376-3638  
 **Email:** kaiogoes1999@gmail.com  
 **LinkedIn:** [linkedin.com/in/kaio-goes](https://linkedin.com/in/kaio-goes)  
-**GitHub:** [github.com/Kaio-Goes](https://github.com/Kaio-Goes)
+**GitHub:** [github.com/Kaio-Goes](https://github.com/Kaio-Goes)  
+**Portfolio:** [https://www.kaiogoes.dev](https://www.kaiogoes.dev/)
 
 ## Resumo
 
