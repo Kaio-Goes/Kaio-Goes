@@ -62,7 +62,6 @@ Desenvolvedor Full Stack Sênior com 5 anos de experiência em desenvolvimento d
 1. Desenvolvimento front-end web com Vue.js.
 1. Início da atuação profissional com Java em sistemas corporativos e integrações backend.
 1. Construção de consultas SQL avançadas e manipulação de dados em Oracle e PostgreSQL.
-1. Uso de EJB e Spring em manutenção evolutiva/corretiva de aplicações legadas.
 
 ## Educação
 
