@@ -1,11 +1,11 @@
 # Kaio de Goes Sousa
 
-**Localização:** Brasília, Distrito Federal
-**Telefone:** (61) 99376-3638
-**Email:** kaiogoes1999@gmail.com
-**LinkedIn:** [linkedin.com/in/kaio-goes](https://linkedin.com/in/kaio-goes)
-**GitHub:** [github.com/Kaio-Goes](https://github.com/Kaio-Goes)
-**Portfolio:** [kaiogoes.dev](https://www.kaiogoes.dev/)
+**Localização:** Brasília, Distrito Federal     
+**Telefone:** (61) 99376-3638       
+**Email:** kaiogoes1999@gmail.com       
+**LinkedIn:** [linkedin.com/in/kaio-goes](https://linkedin.com/in/kaio-goes)    
+**GitHub:** [github.com/Kaio-Goes](https://github.com/Kaio-Goes)    
+**Portfolio:** [https://kaiogoes.dev](https://www.kaiogoes.dev/)    
 
 ## Resumo
 
